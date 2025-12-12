@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFlow AI",
+  "description": "A comprehensive pharmacy inventory management system featuring real-time stock tracking, expiry alerts, and an integrated AI assistant for drug interaction checks and inventory forecasting.",
+  "requestFramePermissions": []
+}
